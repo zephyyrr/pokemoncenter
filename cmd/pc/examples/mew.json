@@ -1,0 +1,33 @@
+{
+  "Species": "Mew",
+  "CurrHP": 20,
+  "PCLevel": 5,
+  "Condition": "normal",
+  "Type1": "psychic",
+  "Type2": "fire",
+  "HeldItem": 0,
+  "Move1": 1,
+  "Move2": 144,
+  "Move3": 0,
+  "Move": 0,
+  "OT": 1337,
+  "Experience": "11259375",
+  "EV": {
+    "HP": 0,
+    "Attack": 0,
+    "Defense": 0,
+    "Speed": 0,
+    "Special": 0
+    },
+  "IV": 64170,
+  "Move1pp": 20,
+  "Move2pp": 10,
+  "Move3pp": 0,
+  "Move4pp": 0,
+  "Level": 5,
+  "HP": 26,
+  "Attack": 15,
+  "Defense": 12,
+  "Speed": 16,
+  "Special": 19
+}
